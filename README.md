@@ -1,0 +1,2 @@
+# CloudStorage
+License for cloud
